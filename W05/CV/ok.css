@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    display: flex;
+}
+.grid_header {
+    background-color: grey ;
+    width: 25%;
+    height: 100vh;
+    padding-top: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.grid_body {
+    text-align: left;
+    margin-left: 40px;
+    margin-right: 10px;
+    font-size: medium;
+    line-height: 1.6;
+}
+.circle {
+    overflow: hidden;
+    border-radius: 50%;
+    height: 15%;
+    width: 40%;
+    margin-left: 30%;
+    
+    
+}
+img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+.child {
+    color: black;
+    font-size: 1.5cm;
+    padding-top: 2cm;
+    margin-left: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kaka {
+    color: darkslategrey;
+    font-size: 0.6cm;
+    margin-left: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+
+
+}
+.koko {
+    color: darkslategrey;
+    font-size: 0.4cm;
+    margin-left: 1cm;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding-top: 10px;
+
+
+}
+.keke {
+    color: darkslategrey;
+    font-size: 0.4cm;
+    margin-left: 3cm;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding-top: 10px;
+
+
+}
+.kiki {
+    color: darkslategrey;
+    font-size: 0.4cm;
+    margin-left: 2cm;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding-top: 10px;
+
+
+
+}
+.kuku {
+    color: darkslategrey;
+    font-size: 0.4cm;
+    margin-left: 4cm;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    padding-top: 10px;
+
+
+
+}
+
+
